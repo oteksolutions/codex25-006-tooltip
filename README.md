@@ -1,2 +1,4 @@
-# codex25-002-tooltip
+# codex25-006-tooltip
 Tooltip UI
+
+TECH STACK: HTML, CSS
